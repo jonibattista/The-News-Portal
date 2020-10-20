@@ -1,0 +1,29 @@
+.boxgeneral{
+    width: 360px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+.box{
+    width: 360px;
+    height: auto;
+    background-color: aquamarine;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+  
+p a{
+    text-decoration: none;
+}
+div{
+    width: 360px;
+    height: auto;
+
+}
+.box2{
+    width: 360px;
+    height: auto;
+    display: flex;
+    
+}

@@ -1,0 +1,35 @@
+footer{
+    color: #fff;
+    width: 360px;
+    height: 200px;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-flow: row wrap;
+    background-color:#000;
+}
+.foot{
+    margin: 0;
+    padding: 0;
+}
+.redes{
+    margin: 0;
+    padding: 0;
+}
+.icoon{
+    width: 28px;
+    height: 28px;
+    padding: 5px;
+}
+.info {
+    position: relative;
+    width: 100px;
+    margin: 0;
+    padding: 0;
+    left: 60px;
+}
+.info a{
+    color:#fff;
+    text-decoration: none;
+
+}

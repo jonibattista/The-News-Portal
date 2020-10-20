@@ -1,0 +1,120 @@
+@media only screen and (min-width:400px){
+    .boxgeneral{
+        width: auto;
+    }
+    header{
+        width: auto;
+        background-color:#d3e6e4;
+    }
+    .logo{
+        width: auto;
+        display: flex;
+        flex-flow: row wrap;
+    }
+    .boxgeneral{
+        width: auto;
+    }
+    .box{
+        width: auto;
+        display: flex;
+        flex-direction: row;
+        justify-content:baseline;
+
+    }
+    .box2{
+        margin-left:10px;
+        width: 250px;
+        height: auto;
+        display: flex;
+        flex-direction: row-reverse;
+        flex-wrap: wrap;
+        justify-content: flex-end;
+        font-size: 15px;
+    }
+    .box1{
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: flex-start;  
+        font-size: 15px;
+    }
+    .box4{
+        font-size: 15px;
+        width: auto;
+        height: auto;
+    }
+    footer{
+        width: auto;
+        height: auto;
+        display: flex;
+        flex-flow: row wrap ;
+    }
+    .info{
+        width: 500px;
+        height: auto;
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: space-between;
+    }
+    .foot {
+        width: auto;
+        height: auto;
+    }
+    .first{
+        width: 500px;
+    }
+  
+}
+@media only screen and (min-width:900px){
+    header{
+        width: auto;
+        height: auto;
+    }
+    .logo{
+        width: auto;
+        height: auto;
+        display: flex;
+        flex-flow:row wrap;
+    }
+    .first{
+        width: 800px;
+        height: auto;
+    }
+    .box{
+        width: auto;
+        height: auto;
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: flex-start;
+    }
+    .box1{
+        width: 800px;
+        height: auto;
+        font-size: 30px;
+    }
+    .box4{
+        width: 800px;
+        font-size: 30px;
+        height: auto;
+        
+    }
+    .box2{
+        font-size: 20px;
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: left;
+
+    }
+    .box3{
+        width: 400px;
+        font-size: 20px;
+       
+    
+
+    }
+    figcaption{
+        width: auto;
+        display: flex;
+        justify-content: space-between;
+      
+    }
+}
